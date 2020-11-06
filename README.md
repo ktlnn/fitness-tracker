@@ -19,6 +19,11 @@ Deployed Webpage:
 ## How Fitness Tracker Works
 
 ## Usage
+- Use Fitness Tracker from Deployed link above OR 
+- In your terminal: 
+    - Clone repository with `git clone` git@github.com:ktlnn/fitness-tracker.git
+    - Run `npm install` OR `yarn install` to install dependencies for Fitness Tracker
+    - Run `node server` to run Fitness Tracker on your local browser
 
 ## Webpage Screenshots
 
