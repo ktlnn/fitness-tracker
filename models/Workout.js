@@ -6,7 +6,7 @@ const WorkoutSchema = new Schema({
         type: Date,
         required: true
     },
-    exercises: [{    
+    exercise: [{    
         type: {
             type: String,
             required: true
